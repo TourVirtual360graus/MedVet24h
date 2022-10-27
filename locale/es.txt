@@ -35,31 +35,31 @@ audiores_0CFE97DD_1989_8F2B_4185_0211E3DF6876.mp3Url = media/audio_113AAB90_0F9C
 audiores_0CFE97DD_1989_8F2B_4185_0211E3DF6876.oggUrl = media/audio_113AAB90_0F9C_04A9_41AB_BEB02A65CA42_pt.ogg
 
 ### Title
-panorama_1D059D8C_0F9D_FCBA_419E_CDB85AED307F.label = Banho e Tosa
-panorama_1D040743_0F9C_0DAE_41AD_0AADFC39C475.label = Centro Cirúrgico
-panorama_1D05E5D3_0F9C_0CAE_419D_2B67C446C1DA.label = Consultório 1
-panorama_1D05D624_0F9C_0FEA_41A0_98A68C511672.label = Consultório 2
-panorama_1D07A7A1_0F9C_0CEA_4175_17AE94860264.label = Consultório Felinos
-panorama_1D05BDFB_0F9C_1C5E_41A5_D3E8D7E58579.label = Corredor
-panorama_1D05EE5D_0F9C_3C5A_4161_ECBECB113691.label = Corredor 2
-panorama_1D040F42_0F9C_1DAE_4166_18F9F1D8B19F.label = Corredor 3
-panorama_1D042717_0F9C_0DD6_41A5_857D3993B2D6.label = Corredor 4
-panorama_1D045F2A_0F9C_7DFE_4170_6021751E5ECD.label = Corredor 5
-panorama_1D056F6C_0F9C_1C7A_41A2_74A504E8D0DD.label = Corredor Centro Cirúrgico
-panorama_1A968F7C_0F9C_1C5A_419F_EEC328DB7601.label = Corredor Cima
-panorama_1D04CFD6_0F9C_3C56_4146_3D93B711AED4.label = Corredor Cima 2
-panorama_1D0427CB_0F9C_0CBE_41A9_74F7966C9A2D.label = Corredor Cima 3
-panorama_1D057ECD_0F9C_1CBB_41A9_7AF9922DCD09.label = Doic
-panorama_1D048DB9_0F9C_1CDA_41A2_FD91996F193A.label = Entrada
-panorama_1D04CE04_0F9C_3FAA_4190_DBA4FD018B94.label = Fachada
-panorama_1D042676_0F9C_0C56_4186_C34FCDEA8ECC.label = Internamento 02
-panorama_1D04A6FA_0F9C_0C5E_41A0_4A3AB9C1B81F.label = Internamento 1
-panorama_1D0457AE_0F9C_0CF6_418B_988E39B205C5.label = Laboratório
-panorama_1D04EFA3_0F9C_FCEE_4194_0524A79D2D37.label = Pediatria Veterinária
-panorama_1D04B701_0F9C_0DAA_41A0_E383F5F92F8E.label = Raio X
-panorama_1D0475CF_0F9C_0CB6_41AD_9E5DC55B5114.label = Recepção
-panorama_1D04D76B_0F9C_0C7E_4186_AC4FBB688EAD.label = Sala Imagem
-panorama_1D042EE1_0F9C_3C6A_41A4_1B2ED85F1BEF.label = Sala de Procedimento
+panorama_01C35C8E_1989_8128_41B7_351672DC525E.label = Banho e Tosa
+panorama_01A051ED_198A_82EB_41B6_23597349CB03.label = Centro Cirúrgico
+panorama_01BFE30D_198A_872B_4192_C02E52568B1A.label = Consultório 1
+panorama_01F2A514_198B_8339_418A_1F976543C337.label = Consultório 2
+panorama_012A12BD_1989_816B_4191_A870DEF05C5D.label = Consultório Felinos
+panorama_01371BEA_1989_86E9_41B4_15FE68CBFFE6.label = Corredor
+panorama_01C3DAD6_198B_8138_4175_BFECF616FCB4.label = Corredor 2
+panorama_01E50CF2_198A_82F8_41B8_8584BAB3D339.label = Corredor 3
+panorama_01622DE8_1989_82E9_41B0_268755821E10.label = Corredor 4
+panorama_01AD0603_198A_8118_41A1_65263DB19C17.label = Corredor 5
+panorama_01AD9311_1989_873B_41A5_CCD185E2DF08.label = Corredor Centro Cirúrgico
+panorama_0189AE38_198A_8168_4172_1C92DD1CA86F.label = Corredor Cima
+panorama_01E298A2_198E_8119_41B8_1294EDBA4874.label = Corredor Cima 2
+panorama_01804CB1_198F_817B_41A7_CB61944B738C.label = Corredor Cima 3
+panorama_01677269_198B_81EB_4197_652E5C01B264.label = Doic
+panorama_0111E34A_1987_8729_41B3_FB902EB8C172.label = Entrada
+panorama_01B95F23_1986_9F18_41A1_89BC7620729D.label = Fachada
+panorama_01514534_198B_8379_4191_37E9E1F8DABF.label = Internamento 02
+panorama_01839A05_198E_811B_41B6_C1C20987EDAD.label = Internamento 1
+panorama_01A8442A_198E_8169_41A4_04B58ED5E360.label = Laboratório
+panorama_01B3AEEB_198F_BEEF_41B7_143E382AD964.label = Pediatria Veterinária
+panorama_01A28EC4_198A_8119_419C_D48A9D8A8EB2.label = Raio X
+panorama_0062B162_1986_8319_41BA_845A177E8084.label = Recepção
+panorama_019ED08D_198E_812B_41A1_227A78483EC6.label = Sala Imagem
+panorama_01B6FF32_198E_BF78_41B7_C80699E50DCF.label = Sala de Procedimento
 
 ## Skin
 
