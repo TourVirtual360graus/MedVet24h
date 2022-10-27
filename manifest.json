@@ -37,9 +37,9 @@
   }
  ],
  "name": "Hospital Veterinário Med Vet 24h",
- "theme_color": "#FFFFFF",
  "description": "Faça um Tour Virtual e Conheça o Nosso Hospital Veterinário 24h",
  "display": "fullscreen",
  "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
  "background_color": "#FFFFFF"
 }
