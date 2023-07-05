@@ -1,4 +1,8 @@
 {
+ "background_color": "#FFFFFF",
+ "name": "Hospital Veterinário Med Vet 24h",
+ "start_url": "index.htm",
+ "description": "Faça um Tour Virtual e Conheça o Nosso Hospital Veterinário 24h",
  "icons": [
   {
    "type": "image/png",
@@ -36,10 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Hospital Veterinário Med Vet 24h",
- "description": "Faça um Tour Virtual e Conheça o Nosso Hospital Veterinário 24h",
- "display": "fullscreen",
- "start_url": "index.htm",
  "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF"
+ "display": "fullscreen"
 }
